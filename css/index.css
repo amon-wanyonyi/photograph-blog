@@ -123,9 +123,9 @@ section::after {
     content: "";
     display: table;
    }
-/* 
+
    footer {
     text-align: center;
     font-size: 24px;
     font-weight: 200;
-   }  */
+   } 
