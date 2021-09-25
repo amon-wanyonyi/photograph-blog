@@ -1,4 +1,4 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Yaldevi:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yaldevi:wght@200&display=swap');
 
 * {
   box-sizing: border-box;
@@ -41,7 +41,7 @@ body {
   float: right;
 }
 
-header {
+/* header {
   padding: 30px;
   text-align: center;
   font-size: 40px;
